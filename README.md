@@ -1,3 +1,3 @@
 # diary_entry
-# made using flutter and firebase
+ made using flutter and firebase
 
